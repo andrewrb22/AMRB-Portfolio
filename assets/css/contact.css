@@ -1,0 +1,19 @@
+body{
+    background-image:url(../images/diagmonds/diagmonds.png)
+    }
+ .container{
+     color: goldenrod;
+ }
+.row{
+    background: transparent;
+}
+h1{
+    text-underline-offset: green,auto;
+    color: gold;
+}
+.container{
+    font-family: 'Playfair Display', serif;
+}
+#barra{
+    color: goldenrod;
+}

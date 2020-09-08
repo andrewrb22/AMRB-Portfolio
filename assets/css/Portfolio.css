@@ -1,0 +1,10 @@
+body{
+    background-image:url(../images/diagmonds/diagmonds.png)
+    }
+    .container{
+        font-family: 'Playfair Display', serif;
+        color: black;
+    }
+    #barra{
+        color: goldenrod;
+    }
