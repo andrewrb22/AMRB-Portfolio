@@ -15,13 +15,14 @@ background-image:url(../images/diagmonds/diagmonds.png)
 html,body{
     height: 100%;
 }
-#barra{
-    color: goldenrod;
-}
-.footer {
+
+footer {
     padding: 30px;
     clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Playfair Display', serif;
     text-align: center;
     color: goldenrod;
+}
+img{
+
 }

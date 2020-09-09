@@ -6,17 +6,15 @@ body{
         color:goldenrod;
         background: transparent;
     }
-    #barra{
-        color: goldenrod;
-    }
-    .footer {
+
+    footer {
         padding: 30px;
         clear: both;
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-family: 'Playfair Display', serif;
         text-align: center;
         color: goldenrod;
     }
     .card{
         background: transparent;
-        
+
     }
