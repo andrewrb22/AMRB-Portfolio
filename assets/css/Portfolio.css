@@ -1,12 +1,17 @@
 body{
-    background-image:url(../images/diagmonds/diagmonds.png)
+    background-image:url(../images/diagmonds/diagmonds.png);
+   
+    
     }
+    
     .container{
         font-family: 'Playfair Display', serif;
         color:goldenrod;
         background: transparent;
+    
+        
     }
-
+    
     footer {
         padding: 30px;
         clear: both;

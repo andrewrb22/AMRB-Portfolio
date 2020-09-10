@@ -1,5 +1,6 @@
 body{
-background-image:url(../images/diagmonds/diagmonds.png)
+background-image:url(../images/diagmonds/diagmonds.png);
+
 }
 .col-md-9{
     background:transparent;
@@ -22,7 +23,4 @@ footer {
     font-family: 'Playfair Display', serif;
     text-align: center;
     color: goldenrod;
-}
-img{
-
 }

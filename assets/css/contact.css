@@ -1,5 +1,7 @@
 body{
-    background-image:url(../images/diagmonds/diagmonds.png)
+    background-image:url(../images/diagmonds/diagmonds.png);
+   
+    
     }
  .container{
      color: goldenrod;
