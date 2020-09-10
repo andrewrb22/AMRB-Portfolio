@@ -5,16 +5,14 @@ body{
     }
  .container{
      color: goldenrod;
+     font-family: 'Playfair Display', serif;
  }
 .row{
     background: transparent;
 }
 h1{
-    text-underline-offset: green,auto;
-    color: gold;
-}
-.container{
-    font-family: 'Playfair Display', serif;
+    text-underline-offset:auto;
+    color: goldenrod;
 }
 
 footer {
